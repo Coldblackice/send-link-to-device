@@ -2,10 +2,10 @@
   "name": "send-tab-to-device-me",
   "id": "tab2device@Off.JustOff",
   "version": "1.0.1",
-  "title": "Send Tab to Device (Moon Edition)",
+  "title": "Send Link to Device",
   "description": "Send a tab or link to another device using Pale Moon Sync",
   "author": "Off JustOff <Off.Just.Off@gmail.com>",
-  "homepage": "https://github.com/JustOff/send-tab-to-device",
+  "homepage": "https://github.com/JustOff/send-link-to-device",
   "contributors": [
     "Gregory Szorc <gps@mozilla.com>"
   ],
