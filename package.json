@@ -6,6 +6,7 @@
   "description": "Send a tab or link to another device using Pale Moon Sync",
   "author": "Off JustOff <Off.Just.Off@gmail.com>",
   "homepage": "https://github.com/JustOff/send-link-to-device",
+  "updateURL": "https://raw.githubusercontent.com/JustOff/send-link-to-device/master/update.xml",
   "contributors": [
     "Gregory Szorc <gps@mozilla.com>"
   ],
