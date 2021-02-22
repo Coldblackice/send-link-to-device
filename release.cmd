@@ -1,5 +1,5 @@
 @echo off
-set VER=1.0.3
+set VER=1.0.4
 
 sed -i -E "s/\"version\": \".+?\"/\"version\": \"%VER%\"/; s/\"name\": \".+?\"/\"name\": \"send-link-to-device-%VER%\"/" package.json
 sed -i -E "s/version>.+?</version>%VER%</; s/download\/.+?\/send-link-to-device-.+?\.xpi/download\/%VER%\/send-link-to-device-%VER%\.xpi/" update.xml

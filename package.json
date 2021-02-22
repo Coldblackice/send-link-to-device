@@ -1,7 +1,7 @@
 {
-  "name": "send-link-to-device-1.0.3",
+  "name": "send-link-to-device-1.0.4",
   "id": "tab2device@Off.JustOff",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "title": "Send Link to Device",
   "description": "Send a tab or link to another device using Pale Moon Sync",
   "author": "Off JustOff <Off.Just.Off@gmail.com>",
