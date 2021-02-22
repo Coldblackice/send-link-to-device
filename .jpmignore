@@ -1,4 +1,7 @@
 .*
 *.xpi
 *.md
+*.exe
 test
+release.cmd
+update.xml

@@ -1,5 +1,5 @@
 {
-  "name": "send-tab-to-device-me",
+  "name": "send-link-to-device-1.0.3",
   "id": "tab2device@Off.JustOff",
   "version": "1.0.3",
   "title": "Send Link to Device",
@@ -10,7 +10,7 @@
     "Gregory Szorc <gps@mozilla.com>"
   ],
   "engines": {
-    "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}": ">=27.1.0b1 <=28.*"
+    "{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}": ">=27.1.0b1 <=29.*"
   },
   "main": "./lib/main",
   "permissions": {"private-browsing": true},
